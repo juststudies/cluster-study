@@ -14,13 +14,10 @@ And, of course, a good code editor... like [VSCode](https://code.visualstudio.co
 
 ```bash
 # Clone it
-$ git clone <https://github.com/juststudies/cluster-study>
+$ git clone https://github.com/juststudies/cluster-study
 
 # Access the directory in terminal/cmd
 $ cd cluster-study
-
-# Go to business-card
-$ cd business-card
 
 # Install dependencies
 $ npm install
