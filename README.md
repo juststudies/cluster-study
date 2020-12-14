@@ -47,3 +47,5 @@ The below tools were used for this project
  Lets talk! 👋🏽
 
 #### Special thanks to [Erick Wendel](https://www.youtube.com/channel/UCh84012dEUE076wM2CVFN9A) you rock mate
+
+2020 foi embaçado...
